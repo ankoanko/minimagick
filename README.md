@@ -1,0 +1,2 @@
+# minimagick
+minimagick test project
